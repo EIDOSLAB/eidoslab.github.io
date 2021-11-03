@@ -211,10 +211,10 @@ team:
           #  icon: fab fa-linkedin-in
 
 
-      - name: "Sergio Rabellino"
-        role: "Technician"
-        image: assets/img/team/1.jpg
-        social:
+     # - name: "Sergio Rabellino"
+     #   role: "Technician"
+     #   image: assets/img/team/1.jpg
+     #   social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
           #- url: https://facebook.com
