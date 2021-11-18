@@ -13,7 +13,7 @@ jobs:
 
       # Use GitHub Actions' cache to cache dependencies on servers
       - name: "Jekyll build"
-        run: docker run --rm -v $PWD:/srv/jekyll -it jekyll/jekyll:latest jekyll build
+        run: docker run --rm -v $PWD:/srv/jekyll jekyll/jekyll:latest jekyll build
       
       - name: "Copy to docs"
         run: cp -r _site /www/eidos.di.unito.it/docs
