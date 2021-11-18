@@ -1,0 +1,19 @@
+name: Build and Deploy to eidos.di.unito.it
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_and_deploy:
+    runs-on: self-hosted # change to di.unito.it
+    steps:
+      - uses: actions/checkout@v2
+
+      # Use GitHub Actions' cache to cache dependencies on servers
+      - name: "Jekyll build"
+        run: docker run --rm -v $PWD:/srv/jekyll -it jekyll/jekyll:latest jekyll build
+      
+      - name: "Copy to docs"
+        run: cp -r _site /www/eidos.di.unito.it/docs
