@@ -79,6 +79,8 @@ team:
             icon: fas fa-link
           - url: https://orcid.org/0000-0002-2709-7864
             icon: fab fa-orcid
+          - url: https://scholar.google.it/citations?user=Pt1gmQYAAAAJ&hl=en
+            icon: fab fa-google
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
           #- url: https://linkedin.com
