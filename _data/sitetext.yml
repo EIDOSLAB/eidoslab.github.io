@@ -151,6 +151,10 @@ team:
           #  icon: fab fa-facebook-f
           #- url: https://linkedin.com
           #  icon: fab fa-linkedin-in
+          - url: https://github.com/AndreaBrg
+            icon: fab fa-github
+          - url: https://orcid.org/0000-0002-8619-1586
+            icon: fab fa-orcid
 
       - name: "Daniele Perlo"
         role: "PhD student"
