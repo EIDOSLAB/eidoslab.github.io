@@ -75,8 +75,10 @@ team:
         role: "Coordinator"
         image: assets/img/team/grangetto.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: http://www.di.unito.it/~mgrange
+            icon: fab fa-web
+         - url: https://orcid.org/0000-0002-2709-7864
+            icon: fab fa-orcid
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
           #- url: https://linkedin.com
