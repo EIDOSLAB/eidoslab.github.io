@@ -76,7 +76,7 @@ team:
         image: assets/img/team/grangetto.jpg
         social:
           - url: http://www.di.unito.it/~mgrange
-            icon: fab fa-link
+            icon: fas fa-link
           - url: https://orcid.org/0000-0002-2709-7864
             icon: fab fa-orcid
           #- url: https://facebook.com
