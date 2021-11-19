@@ -83,7 +83,7 @@ team:
           #  icon: fab fa-linkedin-in
 
       - name: "Davide Cavagnino"
-        role: "Member"
+        role: "Professor"
         image: assets/img/team/1.jpg
         social:
           #- url: https://twitter.com
@@ -94,7 +94,7 @@ team:
           #  icon: fab fa-linkedin-in
 
       - name: "Maurizio Lucenteforte"
-        role: "Member"
+        role: "Professor"
         image: assets/img/team/1.jpg
         social:
           #- url: https://twitter.com
@@ -105,7 +105,7 @@ team:
           #  icon: fab fa-linkedin-in
 
       - name: "Attilio Fiandrotti"
-        role: "Member"
+        role: "Professor"
         image: assets/img/team/1.jpg
         social:
           #- url: https://twitter.com
@@ -131,7 +131,7 @@ team:
             icon: fab fa-orcid
 
       - name: "Nello Balossino"
-        role: "Member"
+        role: "Professor"
         image: assets/img/team/1.jpg
         social:
           #- url: https://twitter.com
