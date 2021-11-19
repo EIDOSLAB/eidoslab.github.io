@@ -86,7 +86,7 @@ team:
 
       - name: "Nello Balossino"
         role: "Professor"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/balossino.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -97,7 +97,7 @@ team:
 
       - name: "Davide Cavagnino"
         role: "Professor"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/default.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -108,7 +108,7 @@ team:
 
       - name: "Maurizio Lucenteforte"
         role: "Professor"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/default.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -119,7 +119,7 @@ team:
 
       - name: "Attilio Fiandrotti"
         role: "Member"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/fiandrotti.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -130,7 +130,7 @@ team:
 
       - name: "Enzo Tartaglione"
         role: "Member"
-        image: assets/img/team/tarta.png
+        image: assets/img/team/tartaglione.png
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -145,7 +145,7 @@ team:
 
       - name: "Carlo Alberto Barbano"
         role: "PhD student"
-        image: assets/img/team/carlo.jpg
+        image: assets/img/team/barbano.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitterhttp://www.nii.ac.jp/en/
@@ -158,7 +158,7 @@ team:
 
       - name: "Andrea Bragagnolo"
         role: "PhD student"
-        image: assets/img/team/andrea.jpg
+        image: assets/img/team/bragagnolo.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -173,7 +173,7 @@ team:
 
       - name: "Ayesha Hoor Chaudhry Hafiza"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/default.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -184,7 +184,7 @@ team:
 
       - name: "Daniele Perlo"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/default.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -195,7 +195,7 @@ team:
 
       - name: "Riccardo Renzulli"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/default.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -206,7 +206,7 @@ team:
 
       - name: "Mirko Zaffaroni"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/default.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
