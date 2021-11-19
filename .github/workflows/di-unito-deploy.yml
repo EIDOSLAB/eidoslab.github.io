@@ -34,6 +34,7 @@ jobs:
           actor: ''                  # Default is the GITHUB_ACTOR
     
   deploy:
+    needs: build
     runs-on: [di.unito.it]
     steps:
       - uses: actions/checkout@v2
