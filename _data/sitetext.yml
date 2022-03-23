@@ -175,7 +175,7 @@ team:
 
       - name: "Ayesha Hoor Chaudhry Hafiza"
         role: "PhD student"
-        image: assets/img/team/default.jpg
+        image: assets/img/team/ayesha.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -186,7 +186,7 @@ team:
 
       - name: "Daniele Perlo"
         role: "PhD student"
-        image: assets/img/team/default.jpg
+        image: assets/img/team/perlo.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -197,18 +197,20 @@ team:
 
       - name: "Riccardo Renzulli"
         role: "PhD student"
-        image: assets/img/team/default.jpg
+        image: assets/img/team/renzulli.jpg
         social:
-          #- url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
+          - url: https://github.com/riccardorenzulli
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/riccardo-renzulli-5b7722177/
+            icon: fab fa-linkedin-in
+          - url: https://orcid.org/0000-0003-0532-5966
+            icon: fab fa-orcid
+          - url: https://scholar.google.com/citations?user=9xXsThsAAAAJ&hl=it
+            icon: fab fa-google
 
       - name: "Mirko Zaffaroni"
         role: "PhD student"
-        image: assets/img/team/default.jpg
+        image: assets/img/team/zaffaroni.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
