@@ -76,9 +76,22 @@ team:
         image: assets/img/team/grangetto.jpg
         social:
           - url: http://www.di.unito.it/~mgrange
-            icon: fab fa-web
+            icon: fas fa-link
           - url: https://orcid.org/0000-0002-2709-7864
             icon: fab fa-orcid
+          - url: https://scholar.google.it/citations?user=Pt1gmQYAAAAJ&hl=en
+            icon: fab fa-google
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          #- url: https://linkedin.com
+          #  icon: fab fa-linkedin-in
+
+      - name: "Nello Balossino"
+        role: "Professor"
+        image: assets/img/team/balossino.jpg
+        social:
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
           #- url: https://linkedin.com
@@ -86,7 +99,7 @@ team:
 
       - name: "Davide Cavagnino"
         role: "Professor"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/default.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -97,7 +110,7 @@ team:
 
       - name: "Maurizio Lucenteforte"
         role: "Professor"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/default.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -107,8 +120,8 @@ team:
           #  icon: fab fa-linkedin-in
 
       - name: "Attilio Fiandrotti"
-        role: "Professor"
-        image: assets/img/team/1.jpg
+        role: "Member"
+        image: assets/img/team/fiandrotti.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -119,7 +132,7 @@ team:
 
       - name: "Enzo Tartaglione"
         role: "Member"
-        image: assets/img/team/tarta.png
+        image: assets/img/team/tartaglione.png
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -132,20 +145,22 @@ team:
           - url: https://orcid.org/0000-0003-4274-8298
             icon: fab fa-orcid
 
-      - name: "Nello Balossino"
-        role: "Professor"
-        image: assets/img/team/1.jpg
+      - name: "Carlo Alberto Barbano"
+        role: "PhD student"
+        image: assets/img/team/barbano.jpg
         social:
           #- url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
+          #  icon: fab fa-twitterhttp://www.nii.ac.jp/en/
+          - url: https://github.com/carloalbertobarbano
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/carlo-alberto-barbano-8152171ba/
+            icon: fab fa-linkedin-in
+          - url: https://orcid.org/0000-0001-9512-0440
+            icon: fab fa-orcid
 
       - name: "Andrea Bragagnolo"
         role: "PhD student"
-        image: assets/img/team/andrea.jpg
+        image: assets/img/team/bragagnolo.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -158,9 +173,20 @@ team:
           - url: https://orcid.org/0000-0002-8619-1586
             icon: fab fa-orcid
 
+      - name: "Ayesha Hoor Chaudhry Hafiza"
+        role: "PhD student"
+        image: assets/img/team/ayesha.jpg
+        social:
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          #- url: https://linkedin.com
+          #  icon: fab fa-linkedin-in
+
       - name: "Daniele Perlo"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/perlo.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -171,18 +197,20 @@ team:
 
       - name: "Riccardo Renzulli"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/renzulli.jpg
         social:
-          #- url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
+          - url: https://github.com/riccardorenzulli
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/riccardo-renzulli-5b7722177/
+            icon: fab fa-linkedin-in
+          - url: https://orcid.org/0000-0003-0532-5966
+            icon: fab fa-orcid
+          - url: https://scholar.google.com/citations?user=9xXsThsAAAAJ&hl=it
+            icon: fab fa-google
 
       - name: "Mirko Zaffaroni"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/zaffaroni.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
@@ -190,44 +218,6 @@ team:
           #  icon: fab fa-facebook-f
           #- url: https://linkedin.com
           #  icon: fab fa-linkedin-in
-
-
-      - name: "Carlo Alberto Barbano"
-        role: "PhD student"
-        image: assets/img/team/carlo.jpg
-        social:
-          #- url: https://twitter.com
-          #  icon: fab fa-twitterhttp://www.nii.ac.jp/en/
-          - url: https://github.com/carloalbertobarbano
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/carlo-alberto-barbano-8152171ba/
-            icon: fab fa-linkedin-in
-          - url: https://orcid.org/0000-0001-9512-0440
-            icon: fab fa-orcid
-
-      - name: "Ayesha Hoor Chaudhry Hafiza"
-        role: "PhD student"
-        image: assets/img/team/1.jpg
-        social:
-          #- url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
-
-
-     # - name: "Sergio Rabellino"
-     #   role: "Technician"
-     #   image: assets/img/team/1.jpg
-     #   social:
-          #- url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
-
 
 contact:
     title: "Contact Us"
