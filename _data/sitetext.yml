@@ -29,6 +29,13 @@ timeline:
     title: "Events"
     section: timeline
     events:
+      - title: "EIDOS @ ICIAP 2021"
+        year: 2022
+        desc: "21st International Conference on IMAGE ANALYSIS AND PROCESSING"
+        image: assets/img/timeline/iciap_logo.png
+        alt: "ICIAP@2021"
+        align: right
+        
       - title: "Deep Health"
         year: "2019"
         desc: "Deep-Learning and HPC to Boost Biomedical Applications for Health"
