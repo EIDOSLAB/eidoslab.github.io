@@ -21,7 +21,7 @@ email      : eidos@di.unito.it #this is also the email contact forms will go to
 description: "Digital image processing, computer vision and virtual reality"
 author     : EIDOSlab
 logo:     #optional, defaults to site title
-  path: assets/img/eidos_logo.png
+  path: assets/img/eidos_logo_anaglyphic.png
   # height: 60 #height in px, defaults to 52px
 
 plugins: ['jekyll/scholar']
