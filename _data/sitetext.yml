@@ -29,6 +29,13 @@ timeline:
     title: "Events"
     section: timeline
     events:
+      - title: "EIDOS @ NEURIPS 2022"
+        year: 2022
+        desc: "36th Conference on Neural Information Processing Systems <a href='https://neurips.cc/virtual/2022/papers.html?filter=authors&search=Marco+Grangetto'> Neurips 2022</a>"
+        image: https://neurips.cc/media/Press/NeurIPS_logo.png
+        alt: "NEURIPS@2022"
+        align: right
+        
       - title: "EIDOS @ ICIAP 2021"
         year: 2022
         desc: "21st International Conference on IMAGE ANALYSIS AND PROCESSING <a href='https://www.iciap2021.org/'>https://www.iciap2021.org/</a>"
